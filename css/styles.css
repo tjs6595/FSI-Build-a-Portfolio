@@ -1,0 +1,42 @@
+body {
+    background-color: purple;
+  }
+
+h3{
+  background-color: gray;
+  border-radius: 2px;
+  border-width: 2px;
+  font: 35px bold;
+}
+
+p {
+  font-style: bold;
+  font-size: 125%;
+}
+
+.What-I-Like{
+  font-style: bold;
+  font-size: 125%;
+}
+
+.Header-Name {
+  text-align: center;
+  text-decoration-color: ghostwhite;
+  background-color: gray;
+  font: 150% bold;
+  border-radius: 4px;
+  font-family: sans-serif, 'Arial Narrow Bold', Impact, Haettenschweiler;
+}
+
+.Header-Title {
+  text-align: center;
+  background-color: gray;
+  font-size: larger;
+  border-radius: 4px;
+}
+
+.Image-Programming {
+  border: 5px solid gray;
+  border-radius: 2px;
+  cursor: -webkit-grab; cursor: grab;
+}
